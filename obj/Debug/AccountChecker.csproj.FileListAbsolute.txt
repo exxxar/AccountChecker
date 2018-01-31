@@ -7,4 +7,3 @@ C:\Users\exxxa\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleAp
 C:\Users\exxxa\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
 C:\Users\exxxa\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\exxxa\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\exxxa\OneDrive\Документы\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AccountChecker.csprojResolveAssemblyReference.cache
